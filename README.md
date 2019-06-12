@@ -1,2 +1,2 @@
 # CodeSpace
-Programes that will help for competetive coding. 
+Programes that will help to improve logic and coding skills.
