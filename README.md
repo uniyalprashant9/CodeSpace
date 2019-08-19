@@ -1,2 +1,2 @@
 # CodeSpace
-Programes that will help to improve logic and coding skills.
+Programs that will help to improve logic and coding skills.
